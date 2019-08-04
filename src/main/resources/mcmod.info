@@ -1,0 +1,15 @@
+[
+{
+  "modid": "mcsscommunicatorsponge",
+  "name": "MCSSCommunicatorSponge",
+  "description": "Core-element of MC Server Soft. Provides real-time diagnostics and server telemetry.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "mcserversoft.com",
+  "updateUrl": "",
+  "authorList": ["Fireblade115 a.k.a. Fiahblade"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
